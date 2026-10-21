@@ -2,13 +2,13 @@
   "name": "astro-noindex",
   "version": "1.0.1",
   "description": "Automatically injects noindex for non-production Astro builds",
-  "homepage": "https://velohost.co.uk/plugins/astro-noindex/",
+  "homepage": "https://github.com/frontlanestudio/astro-noindex",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/velohost/astro-noindex.git"
+    "url": "git+https://github.com/frontlanestudio/astro-noindex.git"
   },
   "bugs": {
-    "url": "https://github.com/velohost/astro-noindex/issues"
+    "url": "https://github.com/frontlanestudio/astro-noindex/issues"
   },
   "license": "MIT",
   "type": "module",
